@@ -1,0 +1,84 @@
+industry_key,industry,metric_key,metric,unit,n,p25,median,p75
+all,All industries,gross_margin,Gross margin,percent,539,21.9,41.4,59.9
+software,Software & IT services,gross_margin,Gross margin,percent,76,29.3,50.4,68.2
+biotech_pharma,Biotech & pharmaceuticals,gross_margin,Gross margin,percent,57,41.4,65.0,76.5
+medical,Medical devices & health services,gross_margin,Gross margin,percent,78,45.7,61.9,76.2
+electronics,Electronics & computer hardware,gross_margin,Gross margin,percent,82,13.0,34.1,49.7
+manufacturing,Other manufacturing,gross_margin,Gross margin,percent,102,15.4,27.8,46.8
+trade,Wholesale & retail trade,gross_margin,Gross margin,percent,34,13.3,26.6,51.2
+services,Business & consumer services,gross_margin,Gross margin,percent,48,25.7,38.0,61.4
+all,All industries,operating_margin,Operating margin,percent,703,-207.4,-48.2,-5.3
+software,Software & IT services,operating_margin,Operating margin,percent,80,-161.5,-56.9,-11.5
+biotech_pharma,Biotech & pharmaceuticals,operating_margin,Operating margin,percent,146,-1017.6,-242.0,-45.1
+medical,Medical devices & health services,operating_margin,Operating margin,percent,83,-144.5,-55.6,-11.7
+electronics,Electronics & computer hardware,operating_margin,Operating margin,percent,91,-176.5,-43.3,-14.2
+energy_mining,Energy & mining,operating_margin,Operating margin,percent,35,-62.7,-8.8,10.8
+manufacturing,Other manufacturing,operating_margin,Operating margin,percent,108,-157.0,-37.5,-1.1
+transport_utilities,"Transport, telecom & utilities",operating_margin,Operating margin,percent,38,-105.3,-38.1,0.4
+trade,Wholesale & retail trade,operating_margin,Operating margin,percent,40,-77.8,-9.2,-0.7
+services,Business & consumer services,operating_margin,Operating margin,percent,66,-77.2,-10.3,0.9
+all,All industries,net_margin,Net margin,percent,722,-217.9,-49.4,-3.9
+software,Software & IT services,net_margin,Net margin,percent,83,-179.8,-50.3,-8.7
+biotech_pharma,Biotech & pharmaceuticals,net_margin,Net margin,percent,147,-846.0,-225.6,-23.5
+medical,Medical devices & health services,net_margin,Net margin,percent,85,-186.8,-63.8,-21.5
+electronics,Electronics & computer hardware,net_margin,Net margin,percent,92,-199.0,-49.8,-13.5
+energy_mining,Energy & mining,net_margin,Net margin,percent,38,-57.4,-4.5,13.3
+manufacturing,Other manufacturing,net_margin,Net margin,percent,110,-214.8,-31.9,-1.4
+transport_utilities,"Transport, telecom & utilities",net_margin,Net margin,percent,40,-102.3,-30.4,-0.8
+trade,Wholesale & retail trade,net_margin,Net margin,percent,40,-130.4,-13.7,-1.1
+services,Business & consumer services,net_margin,Net margin,percent,69,-67.7,-7.0,4.7
+all,All industries,revenue_growth,Revenue growth,percent,695,-12.2,5.8,40.2
+software,Software & IT services,revenue_growth,Revenue growth,percent,80,-8.3,4.9,53.1
+biotech_pharma,Biotech & pharmaceuticals,revenue_growth,Revenue growth,percent,133,-13.4,17.4,123.6
+medical,Medical devices & health services,revenue_growth,Revenue growth,percent,83,-1.1,15.8,35.5
+electronics,Electronics & computer hardware,revenue_growth,Revenue growth,percent,92,-8.4,9.2,41.7
+energy_mining,Energy & mining,revenue_growth,Revenue growth,percent,37,-27.8,-17.8,13.0
+manufacturing,Other manufacturing,revenue_growth,Revenue growth,percent,107,-11.3,6.5,37.4
+transport_utilities,"Transport, telecom & utilities",revenue_growth,Revenue growth,percent,38,-12.5,1.1,12.5
+trade,Wholesale & retail trade,revenue_growth,Revenue growth,percent,41,-14.4,2.0,23.8
+services,Business & consumer services,revenue_growth,Revenue growth,percent,67,-11.2,0.8,17.4
+all,All industries,dso,Days sales outstanding (DSO),days,591,21.3,42.7,69.4
+software,Software & IT services,dso,Days sales outstanding (DSO),days,71,23.7,43.1,66.4
+biotech_pharma,Biotech & pharmaceuticals,dso,Days sales outstanding (DSO),days,93,16.0,45.2,101.5
+medical,Medical devices & health services,dso,Days sales outstanding (DSO),days,73,37.3,53.0,70.1
+electronics,Electronics & computer hardware,dso,Days sales outstanding (DSO),days,84,31.1,50.3,82.8
+energy_mining,Energy & mining,dso,Days sales outstanding (DSO),days,31,19.4,29.2,46.9
+manufacturing,Other manufacturing,dso,Days sales outstanding (DSO),days,97,27.1,42.9,69.4
+transport_utilities,"Transport, telecom & utilities",dso,Days sales outstanding (DSO),days,34,17.2,26.6,56.6
+trade,Wholesale & retail trade,dso,Days sales outstanding (DSO),days,30,1.9,12.8,34.1
+services,Business & consumer services,dso,Days sales outstanding (DSO),days,61,19.5,39.4,70.8
+all,All industries,dpo,Days payable outstanding (DPO),days,376,36.2,70.8,131.2
+software,Software & IT services,dpo,Days payable outstanding (DPO),days,54,36.1,89.6,204.4
+biotech_pharma,Biotech & pharmaceuticals,dpo,Days payable outstanding (DPO),days,30,52.7,96.8,382.7
+medical,Medical devices & health services,dpo,Days payable outstanding (DPO),days,58,47.7,88.4,134.2
+electronics,Electronics & computer hardware,dpo,Days payable outstanding (DPO),days,70,37.9,59.4,104.6
+manufacturing,Other manufacturing,dpo,Days payable outstanding (DPO),days,77,30.0,62.8,101.5
+all,All industries,dio,Days inventory outstanding (DIO),days,373,33.9,108.4,192.2
+biotech_pharma,Biotech & pharmaceuticals,dio,Days inventory outstanding (DIO),days,39,111.6,164.6,211.5
+medical,Medical devices & health services,dio,Days inventory outstanding (DIO),days,63,104.5,177.4,257.9
+electronics,Electronics & computer hardware,dio,Days inventory outstanding (DIO),days,75,67.2,131.2,184.8
+manufacturing,Other manufacturing,dio,Days inventory outstanding (DIO),days,88,56.6,105.6,198.6
+all,All industries,cash_conversion_cycle,Cash conversion cycle,days,253,9.8,91.2,188.6
+medical,Medical devices & health services,cash_conversion_cycle,Cash conversion cycle,days,46,63.6,164.0,231.0
+electronics,Electronics & computer hardware,cash_conversion_cycle,Cash conversion cycle,days,59,38.0,128.8,190.1
+manufacturing,Other manufacturing,cash_conversion_cycle,Cash conversion cycle,days,64,21.3,91.0,216.0
+all,All industries,current_ratio,Current ratio,ratio,717,0.88,2.08,4.97
+software,Software & IT services,current_ratio,Current ratio,ratio,82,0.59,1.28,3.80
+biotech_pharma,Biotech & pharmaceuticals,current_ratio,Current ratio,ratio,146,1.62,4.02,6.97
+medical,Medical devices & health services,current_ratio,Current ratio,ratio,85,1.09,2.13,5.20
+electronics,Electronics & computer hardware,current_ratio,Current ratio,ratio,92,1.16,2.62,5.06
+energy_mining,Energy & mining,current_ratio,Current ratio,ratio,38,0.66,2.52,7.45
+manufacturing,Other manufacturing,current_ratio,Current ratio,ratio,109,1.12,2.06,4.37
+transport_utilities,"Transport, telecom & utilities",current_ratio,Current ratio,ratio,39,0.53,1.06,2.45
+trade,Wholesale & retail trade,current_ratio,Current ratio,ratio,40,0.37,1.03,2.92
+services,Business & consumer services,current_ratio,Current ratio,ratio,68,0.67,1.33,2.36
+all,All industries,quick_ratio,Quick ratio,ratio,650,0.48,1.34,3.77
+software,Software & IT services,quick_ratio,Quick ratio,ratio,72,0.36,1.01,3.47
+biotech_pharma,Biotech & pharmaceuticals,quick_ratio,Quick ratio,ratio,137,1.11,3.05,6.34
+medical,Medical devices & health services,quick_ratio,Quick ratio,ratio,82,0.68,1.77,3.70
+electronics,Electronics & computer hardware,quick_ratio,Quick ratio,ratio,85,0.63,1.55,4.00
+energy_mining,Energy & mining,quick_ratio,Quick ratio,ratio,34,0.57,2.20,5.00
+manufacturing,Other manufacturing,quick_ratio,Quick ratio,ratio,99,0.34,0.89,2.81
+transport_utilities,"Transport, telecom & utilities",quick_ratio,Quick ratio,ratio,35,0.30,0.66,1.42
+trade,Wholesale & retail trade,quick_ratio,Quick ratio,ratio,30,0.11,0.29,1.37
+services,Business & consumer services,quick_ratio,Quick ratio,ratio,62,0.41,0.76,1.68
